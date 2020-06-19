@@ -1,1 +1,2 @@
 # horizonshomework
+Today we will be editing this pamphlet for a company and making it more appealing. We will be focusing in on the css and tweaking what is needed in the html. the goal is to get the pictures on here as to show what the company does! <strong> Happy Coding!! </strong>
